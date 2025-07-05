@@ -1,6 +1,6 @@
 package java_fundamentals;
 import java.util.*;
-public class Question1 {
+public class languagebasic1 {
 public static void main(String[]args) {
 	String a="Wipro";
 	String b="Bangalore";
